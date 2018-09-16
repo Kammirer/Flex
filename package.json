@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Kammirer/Flex#readme",
   "dependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp.spritesmith": "^6.9.0"
   }
 }
